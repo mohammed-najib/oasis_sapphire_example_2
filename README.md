@@ -1,6 +1,6 @@
-# Oasis Sapphire Example 1
+# Oasis Sapphire Example 2
 
-Example contract project for Oasis Sapphire network
+Example contract project for Oasis Sapphire network using Hardhat framework
 
 ## Environment Variables needed
 
